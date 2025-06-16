@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\turan\\OneDrive\\Masa\u00FCst\u00FC\\Hastane Randevu Sistemi Turan Ar\u0131kan 2444\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76CDC927-6DA9-4BD0-9D95-747E336400D2}|HastaneRandevu\\HastaneRandevu.csproj|c:\\users\\turan\\onedrive\\masa\u00FCst\u00FC\\hastane randevu sistemi turan ar\u0131kan 2444\\hastanerandevu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76CDC927-6DA9-4BD0-9D95-747E336400D2}|HastaneRandevu\\HastaneRandevu.csproj|solutionrelative:hastanerandevu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76CDC927-6DA9-4BD0-9D95-747E336400D2}|HastaneRandevu\\HastaneRandevu.csproj|c:\\users\\turan\\onedrive\\masa\u00FCst\u00FC\\hastane randevu sistemi turan ar\u0131kan 2444\\hastanerandevu\\controllers\\randevucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76CDC927-6DA9-4BD0-9D95-747E336400D2}|HastaneRandevu\\HastaneRandevu.csproj|solutionrelative:hastanerandevu\\controllers\\randevucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76CDC927-6DA9-4BD0-9D95-747E336400D2}|HastaneRandevu\\HastaneRandevu.csproj|c:\\users\\turan\\onedrive\\masa\u00FCst\u00FC\\hastane randevu sistemi turan ar\u0131kan 2444\\hastanerandevu\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76CDC927-6DA9-4BD0-9D95-747E336400D2}|HastaneRandevu\\HastaneRandevu.csproj|solutionrelative:hastanerandevu\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76CDC927-6DA9-4BD0-9D95-747E336400D2}|HastaneRandevu\\HastaneRandevu.csproj|c:\\users\\turan\\onedrive\\masa\u00FCst\u00FC\\hastane randevu sistemi turan ar\u0131kan 2444\\hastanerandevu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76CDC927-6DA9-4BD0-9D95-747E336400D2}|HastaneRandevu\\HastaneRandevu.csproj|solutionrelative:hastanerandevu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76CDC927-6DA9-4BD0-9D95-747E336400D2}|HastaneRandevu\\HastaneRandevu.csproj|c:\\users\\turan\\onedrive\\masa\u00FCst\u00FC\\hastane randevu sistemi turan ar\u0131kan 2444\\hastanerandevu\\data\\hastanecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76CDC927-6DA9-4BD0-9D95-747E336400D2}|HastaneRandevu\\HastaneRandevu.csproj|solutionrelative:hastanerandevu\\data\\hastanecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76CDC927-6DA9-4BD0-9D95-747E336400D2}|HastaneRandevu\\HastaneRandevu.csproj|c:\\users\\turan\\onedrive\\masa\u00FCst\u00FC\\hastane randevu sistemi turan ar\u0131kan 2444\\hastanerandevu\\models\\randevu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76CDC927-6DA9-4BD0-9D95-747E336400D2}|HastaneRandevu\\HastaneRandevu.csproj|solutionrelative:hastanerandevu\\models\\randevu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76CDC927-6DA9-4BD0-9D95-747E336400D2}|HastaneRandevu\\HastaneRandevu.csproj|c:\\users\\turan\\onedrive\\masa\u00FCst\u00FC\\hastane randevu sistemi turan ar\u0131kan 2444\\hastanerandevu\\views\\randevu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76CDC927-6DA9-4BD0-9D95-747E336400D2}|HastaneRandevu\\HastaneRandevu.csproj|solutionrelative:hastanerandevu\\views\\randevu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76CDC927-6DA9-4BD0-9D95-747E336400D2}|HastaneRandevu\\HastaneRandevu.csproj|c:\\users\\turan\\onedrive\\masa\u00FCst\u00FC\\hastane randevu sistemi turan ar\u0131kan 2444\\hastanerandevu\\views\\randevu\\onay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76CDC927-6DA9-4BD0-9D95-747E336400D2}|HastaneRandevu\\HastaneRandevu.csproj|solutionrelative:hastanerandevu\\views\\randevu\\onay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76CDC927-6DA9-4BD0-9D95-747E336400D2}|HastaneRandevu\\HastaneRandevu.csproj|c:\\users\\turan\\onedrive\\masa\u00FCst\u00FC\\hastane randevu sistemi turan ar\u0131kan 2444\\hastanerandevu\\views\\randevu\\liste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76CDC927-6DA9-4BD0-9D95-747E336400D2}|HastaneRandevu\\HastaneRandevu.csproj|solutionrelative:hastanerandevu\\views\\randevu\\liste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76CDC927-6DA9-4BD0-9D95-747E336400D2}|HastaneRandevu\\HastaneRandevu.csproj|c:\\users\\turan\\onedrive\\masa\u00FCst\u00FC\\hastane randevu sistemi turan ar\u0131kan 2444\\hastanerandevu\\views\\randevu\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76CDC927-6DA9-4BD0-9D95-747E336400D2}|HastaneRandevu\\HastaneRandevu.csproj|solutionrelative:hastanerandevu\\views\\randevu\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76CDC927-6DA9-4BD0-9D95-747E336400D2}|HastaneRandevu\\HastaneRandevu.csproj|c:\\users\\turan\\onedrive\\masa\u00FCst\u00FC\\hastane randevu sistemi turan ar\u0131kan 2444\\hastanerandevu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76CDC927-6DA9-4BD0-9D95-747E336400D2}|HastaneRandevu\\HastaneRandevu.csproj|solutionrelative:hastanerandevu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76CDC927-6DA9-4BD0-9D95-747E336400D2}|HastaneRandevu\\HastaneRandevu.csproj|c:\\users\\turan\\onedrive\\masa\u00FCst\u00FC\\hastane randevu sistemi turan ar\u0131kan 2444\\hastanerandevu\\migrations\\20250601160220_hug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76CDC927-6DA9-4BD0-9D95-747E336400D2}|HastaneRandevu\\HastaneRandevu.csproj|solutionrelative:hastanerandevu\\migrations\\20250601160220_hug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Onay.cshtml",
+              "DocumentMoniker": "C:\\Users\\turan\\OneDrive\\Masa\u00FCst\u00FC\\Hastane Randevu Sistemi Turan Ar\u0131kan 2444\\HastaneRandevu\\Views\\Randevu\\Onay.cshtml",
+              "RelativeDocumentMoniker": "HastaneRandevu\\Views\\Randevu\\Onay.cshtml",
+              "ToolTip": "C:\\Users\\turan\\OneDrive\\Masa\u00FCst\u00FC\\Hastane Randevu Sistemi Turan Ar\u0131kan 2444\\HastaneRandevu\\Views\\Randevu\\Onay.cshtml",
+              "RelativeToolTip": "HastaneRandevu\\Views\\Randevu\\Onay.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T19:35:31.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\turan\\OneDrive\\Masa\u00FCst\u00FC\\Hastane Randevu Sistemi Turan Ar\u0131kan 2444\\HastaneRandevu\\Views\\Randevu\\Index.cshtml",
+              "RelativeDocumentMoniker": "HastaneRandevu\\Views\\Randevu\\Index.cshtml",
+              "ToolTip": "C:\\Users\\turan\\OneDrive\\Masa\u00FCst\u00FC\\Hastane Randevu Sistemi Turan Ar\u0131kan 2444\\HastaneRandevu\\Views\\Randevu\\Index.cshtml",
+              "RelativeToolTip": "HastaneRandevu\\Views\\Randevu\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T19:34:46.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\turan\\OneDrive\\Masa\u00FCst\u00FC\\Hastane Randevu Sistemi Turan Ar\u0131kan 2444\\HastaneRandevu\\appsettings.json",
+              "RelativeDocumentMoniker": "HastaneRandevu\\appsettings.json",
+              "ToolTip": "C:\\Users\\turan\\OneDrive\\Masa\u00FCst\u00FC\\Hastane Randevu Sistemi Turan Ar\u0131kan 2444\\HastaneRandevu\\appsettings.json",
+              "RelativeToolTip": "HastaneRandevu\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-28T19:26:15.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HastaneContext.cs",
+              "DocumentMoniker": "C:\\Users\\turan\\OneDrive\\Masa\u00FCst\u00FC\\Hastane Randevu Sistemi Turan Ar\u0131kan 2444\\HastaneRandevu\\Data\\HastaneContext.cs",
+              "RelativeDocumentMoniker": "HastaneRandevu\\Data\\HastaneContext.cs",
+              "ToolTip": "C:\\Users\\turan\\OneDrive\\Masa\u00FCst\u00FC\\Hastane Randevu Sistemi Turan Ar\u0131kan 2444\\HastaneRandevu\\Data\\HastaneContext.cs",
+              "RelativeToolTip": "HastaneRandevu\\Data\\HastaneContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:40:28.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\turan\\OneDrive\\Masa\u00FCst\u00FC\\Hastane Randevu Sistemi Turan Ar\u0131kan 2444\\HastaneRandevu\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HastaneRandevu\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\turan\\OneDrive\\Masa\u00FCst\u00FC\\Hastane Randevu Sistemi Turan Ar\u0131kan 2444\\HastaneRandevu\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HastaneRandevu\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T20:10:51.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Guncelle.cshtml",
+              "DocumentMoniker": "C:\\Users\\turan\\OneDrive\\Masa\u00FCst\u00FC\\Hastane Randevu Sistemi Turan Ar\u0131kan 2444\\HastaneRandevu\\Views\\Randevu\\Guncelle.cshtml",
+              "RelativeDocumentMoniker": "HastaneRandevu\\Views\\Randevu\\Guncelle.cshtml",
+              "ToolTip": "C:\\Users\\turan\\OneDrive\\Masa\u00FCst\u00FC\\Hastane Randevu Sistemi Turan Ar\u0131kan 2444\\HastaneRandevu\\Views\\Randevu\\Guncelle.cshtml",
+              "RelativeToolTip": "HastaneRandevu\\Views\\Randevu\\Guncelle.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T20:20:29.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RandevuController.cs",
+              "DocumentMoniker": "C:\\Users\\turan\\OneDrive\\Masa\u00FCst\u00FC\\Hastane Randevu Sistemi Turan Ar\u0131kan 2444\\HastaneRandevu\\Controllers\\RandevuController.cs",
+              "RelativeDocumentMoniker": "HastaneRandevu\\Controllers\\RandevuController.cs",
+              "ToolTip": "C:\\Users\\turan\\OneDrive\\Masa\u00FCst\u00FC\\Hastane Randevu Sistemi Turan Ar\u0131kan 2444\\HastaneRandevu\\Controllers\\RandevuController.cs",
+              "RelativeToolTip": "HastaneRandevu\\Controllers\\RandevuController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:33:38.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Liste.cshtml",
+              "DocumentMoniker": "C:\\Users\\turan\\OneDrive\\Masa\u00FCst\u00FC\\Hastane Randevu Sistemi Turan Ar\u0131kan 2444\\HastaneRandevu\\Views\\Randevu\\Liste.cshtml",
+              "RelativeDocumentMoniker": "HastaneRandevu\\Views\\Randevu\\Liste.cshtml",
+              "ToolTip": "C:\\Users\\turan\\OneDrive\\Masa\u00FCst\u00FC\\Hastane Randevu Sistemi Turan Ar\u0131kan 2444\\HastaneRandevu\\Views\\Randevu\\Liste.cshtml",
+              "RelativeToolTip": "HastaneRandevu\\Views\\Randevu\\Liste.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T19:36:10.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250601160220_hug.cs",
+              "DocumentMoniker": "C:\\Users\\turan\\OneDrive\\Masa\u00FCst\u00FC\\Hastane Randevu Sistemi Turan Ar\u0131kan 2444\\HastaneRandevu\\Migrations\\20250601160220_hug.cs",
+              "RelativeDocumentMoniker": "HastaneRandevu\\Migrations\\20250601160220_hug.cs",
+              "ToolTip": "C:\\Users\\turan\\OneDrive\\Masa\u00FCst\u00FC\\Hastane Randevu Sistemi Turan Ar\u0131kan 2444\\HastaneRandevu\\Migrations\\20250601160220_hug.cs",
+              "RelativeToolTip": "HastaneRandevu\\Migrations\\20250601160220_hug.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:02:20.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\turan\\OneDrive\\Masa\u00FCst\u00FC\\Hastane Randevu Sistemi Turan Ar\u0131kan 2444\\HastaneRandevu\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HastaneRandevu\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\turan\\OneDrive\\Masa\u00FCst\u00FC\\Hastane Randevu Sistemi Turan Ar\u0131kan 2444\\HastaneRandevu\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HastaneRandevu\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T21:41:08.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\turan\\OneDrive\\Masa\u00FCst\u00FC\\Hastane Randevu Sistemi Turan Ar\u0131kan 2444\\HastaneRandevu\\Program.cs",
+              "RelativeDocumentMoniker": "HastaneRandevu\\Program.cs",
+              "ToolTip": "C:\\Users\\turan\\OneDrive\\Masa\u00FCst\u00FC\\Hastane Randevu Sistemi Turan Ar\u0131kan 2444\\HastaneRandevu\\Program.cs",
+              "RelativeToolTip": "HastaneRandevu\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:32:42.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Randevu.cs",
+              "DocumentMoniker": "C:\\Users\\turan\\OneDrive\\Masa\u00FCst\u00FC\\Hastane Randevu Sistemi Turan Ar\u0131kan 2444\\HastaneRandevu\\Models\\Randevu.cs",
+              "RelativeDocumentMoniker": "HastaneRandevu\\Models\\Randevu.cs",
+              "ToolTip": "C:\\Users\\turan\\OneDrive\\Masa\u00FCst\u00FC\\Hastane Randevu Sistemi Turan Ar\u0131kan 2444\\HastaneRandevu\\Models\\Randevu.cs",
+              "RelativeToolTip": "HastaneRandevu\\Models\\Randevu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:30:07.672Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

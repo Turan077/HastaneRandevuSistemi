@@ -1,0 +1,60 @@
+﻿@model HastaneRandevu.Models.Randevu
+@{
+    ViewBag.Title = "Randevu Al";
+    var bolumler = ViewBag.Bolumler as List<string>;
+}
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card shadow">
+                <div class="card-header bg-primary text-white">
+                    <h4>Hastane Randevu Formu</h4>
+                </div>
+                <div class="card-body">
+                    <form asp-action="Index" method="post">
+                        <div class="mb-3">
+                            <label asp-for="AdSoyad" class="form-label"></label>
+                            <input asp-for="AdSoyad" class="form-control" />
+                            <span asp-validation-for="AdSoyad" class="text-danger"></span>
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="Telefon" class="form-label"></label>
+                            <input asp-for="Telefon" class="form-control" maxlength="15" />
+                            <span asp-validation-for="Telefon" class="text-danger"></span>
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="Bolum" class="form-label">Hastane Bölümü</label>
+                            <select asp-for="Bolum" class="form-select">
+                                <option value="">Bölüm Seçiniz</option>
+                                @foreach (var bolum in bolumler)
+                                {
+                                    <option value="@bolum">@bolum</option>
+                                }
+                            </select>
+                            <span asp-validation-for="Bolum" class="text-danger"></span>
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="Tarih" class="form-label">Randevu Tarihi</label>
+                            <input asp-for="Tarih" type="date" class="form-control" />
+                            <span asp-validation-for="Tarih" class="text-danger"></span>
+                        </div>
+                        <button type="submit" class="btn btn-primary w-100">Randevu Al</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script>
+        // Telefon alanına sadece rakam girilsin
+        document.querySelector('input[name="Telefon"]').addEventListener('input', function (e) {
+            this.value = this.value.replace(/[^0-9]/g, '');
+        });
+    </script>
+}

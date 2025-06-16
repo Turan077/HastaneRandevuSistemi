@@ -1,0 +1,221 @@
+@model IEnumerable<HastaneRandevu.Models.Randevu>
+
+@{
+    ViewData["Title"] = "Randevu Listesi";
+}
+
+@section Styles {
+    <style>
+        .appointment-card {
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+            transition: all 0.3s ease;
+            margin-bottom: 1.5rem;
+            overflow: hidden;
+            border: 1px solid #e2e8f0;
+        }
+        
+        .appointment-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+        }
+        
+        .appointment-header {
+            background: linear-gradient(135deg, #2563eb, #1e40af);
+            color: white;
+            padding: 1.25rem;
+            position: relative;
+        }
+        
+        .appointment-body {
+            padding: 1.5rem;
+        }
+        
+        .appointment-detail {
+            display: flex;
+            margin-bottom: 0.75rem;
+            align-items: center;
+        }
+        
+        .appointment-detail i {
+            width: 24px;
+            color: #64748b;
+            margin-right: 0.75rem;
+            text-align: center;
+        }
+        
+        .appointment-actions {
+            display: flex;
+            gap: 0.75rem;
+            margin-top: 1.25rem;
+            border-top: 1px solid #f1f5f9;
+            padding-top: 1.25rem;
+        }
+        
+        .status-badge {
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
+            font-size: 0.75rem;
+            font-weight: 600;
+            padding: 0.25rem 0.75rem;
+            border-radius: 50px;
+        }
+        
+        .status-pending {
+            background-color: #fef3c7;
+            color: #92400e;
+        }
+        
+        .status-confirmed {
+            background-color: #dcfce7;
+            color: #166534;
+        }
+        
+        .no-appointments {
+            text-align: center;
+            padding: 3rem 1rem;
+            background: #f8fafc;
+            border-radius: 12px;
+            border: 2px dashed #e2e8f0;
+        }
+        
+        .no-appointments i {
+            font-size: 3rem;
+            color: #cbd5e1;
+            margin-bottom: 1rem;
+        }
+        
+        .btn-edit, .btn-delete {
+            flex: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+            padding: 0.5rem;
+            font-weight: 500;
+            border-radius: 8px;
+            transition: all 0.2s ease;
+        }
+        
+        .btn-edit {
+            background-color: #f0f9ff;
+            color: #0369a1;
+            border: 1px solid #bae6fd;
+        }
+        
+        .btn-edit:hover {
+            background-color: #e0f2fe;
+            color: #075985;
+        }
+        
+        .btn-delete {
+            background-color: #fef2f2;
+            color: #b91c1c;
+            border: 1px solid #fecaca;
+        }
+        
+        .btn-delete:hover {
+            background-color: #fee2e2;
+            color: #991b1b;
+        }
+        
+        .page-header {
+            position: relative;
+            padding: 2rem 0;
+            margin-bottom: 2.5rem;
+            text-align: center;
+        }
+        
+        .page-header h1 {
+            font-weight: 700;
+            color: #1e293b;
+            position: relative;
+            display: inline-block;
+            padding-bottom: 0.75rem;
+        }
+        
+        .page-header h1:after {
+            content: '';
+            position: absolute;
+            width: 80px;
+            height: 4px;
+            background: linear-gradient(90deg, #2563eb, #3b82f6);
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            border-radius: 2px;
+        }
+        
+        .page-description {
+            color: #64748b;
+            max-width: 700px;
+            margin: 1rem auto 0;
+            font-size: 1.1rem;
+            line-height: 1.6;
+        }
+    </style>
+}
+
+<div class="container">
+    <div class="page-header">
+        <h1>Randevu Listesi</h1>
+        <p class="page-description">Tüm randevu kayıtlarınız aşağıda listelenmektedir. Randevularınızı düzenleyebilir veya iptal edebilirsiniz.</p>
+    </div>
+
+    @if (Model.Any())
+    {
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-lg-6">
+                    <div class="appointment-card">
+                        <div class="appointment-header">
+                            <h5 class="mb-0">@item.AdSoyad</h5>
+                            <span class="status-badge status-confirmed">
+                                <i class="fas fa-check-circle me-1"></i> Onaylandı
+                            </span>
+                        </div>
+                        <div class="appointment-body">
+                            <div class="appointment-detail">
+                                <i class="fas fa-phone"></i>
+                                <span>@item.Telefon</span>
+                            </div>
+                            <div class="appointment-detail">
+                                <i class="fas fa-stethoscope"></i>
+                                <span>@item.Bolum</span>
+                            </div>
+                            <div class="appointment-detail">
+                                <i class="far fa-calendar-alt"></i>
+                                <span>@item.Tarih.ToLongDateString() @item.Tarih.ToShortTimeString()</span>
+                            </div>
+                            
+                            <div class="appointment-actions">
+                                <a asp-action="Guncelle" asp-route-id="@item.Id" class="btn-edit">
+                                    <i class="far fa-edit"></i> Düzenle
+                                </a>
+                                <form asp-action="Sil" asp-route-id="@item.Id" method="post" onsubmit="return confirm('Bu randevuyu silmek istediğinize emin misiniz?');" class="d-inline w-100">
+                                    <button type="submit" class="btn-delete w-100">
+                                        <i class="far fa-trash-alt"></i> Sil
+                                    </button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+    else
+    {
+        <div class="no-appointments">
+            <i class="far fa-calendar-times"></i>
+            <h3 class="h4 mb-2">Henüz Randevu Bulunmuyor</h3>
+            <p class="text-muted mb-0">Henüz hiç randevu oluşturmadınız. Randevu almak için aşağıdaki butonu kullanabilirsiniz.</p>
+            <a asp-action="Index" class="btn btn-primary mt-3">
+                <i class="fas fa-plus-circle me-2"></i> Yeni Randevu Al
+            </a>
+        </div>
+    }
+</div>

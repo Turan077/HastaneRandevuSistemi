@@ -1,0 +1,19 @@
+﻿@model HastaneRandevu.Models.Randevu
+
+@{
+    ViewBag.Title = "Randevu Onay";
+}
+
+<div class="container">
+    <div class="alert alert-success mt-4">
+        <h4>@ViewBag.Mesaj</h4>
+        <ul>
+            <li>Ad Soyad: @Model.AdSoyad</li>
+            <li>Telefon: @Model.Telefon</li>
+            <li>Bölüm: @Model.Bolum</li>
+            <li>Tarih: @Model.Tarih.ToShortDateString()</li>
+        </ul>
+        <a href="@Url.Action("Index", "Randevu")" class="btn btn-primary">Yeni Randevu Al</a>
+        <a href="@Url.Action("Liste", "Randevu")" class="btn btn-secondary">Randevu Listesi</a>
+    </div>
+</div>

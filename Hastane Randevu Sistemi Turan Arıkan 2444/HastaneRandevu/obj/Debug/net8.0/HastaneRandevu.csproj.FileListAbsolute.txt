@@ -1,0 +1,1199 @@
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\appsettings.Development.json
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\appsettings.json
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.staticwebassets.runtime.json
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.staticwebassets.endpoints.json
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.exe
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.deps.json
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.runtimeconfig.json
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.pdb
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Azure.Core.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Azure.Identity.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Humanizer.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Mono.TextTemplating.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.ClientModel.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.CodeDom.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Composition.Convention.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Composition.Hosting.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Composition.Runtime.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Composition.TypedParts.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Drawing.Common.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Formats.Asn1.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.IO.Pipelines.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Memory.Data.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Runtime.Caching.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Security.Permissions.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Text.Json.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Windows.Extensions.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.csproj.AssemblyReference.cache
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.AssemblyInfoInputs.cache
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.AssemblyInfo.cs
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.csproj.CoreCompileInputs.cache
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.MvcApplicationPartsAssemblyInfo.cache
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.RazorAssemblyInfo.cache
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.RazorAssemblyInfo.cs
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\scopedcss\bundle\HastaneRandevu.styles.css
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\scopedcss\projectbundle\HastaneRandevu.bundle.scp.css
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\staticwebassets.build.json
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\staticwebassets.development.json
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\staticwebassets\msbuild.HastaneRandevu.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\staticwebassets\msbuild.HastaneRandevu.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\staticwebassets\msbuild.build.HastaneRandevu.props
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HastaneRandevu.props
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HastaneRandevu.props
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\staticwebassets.pack.json
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\HastaneR.0BF4DC9E.Up2Date
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\refint\HastaneRandevu.dll
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.pdb
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.genruntimeconfig.cache
+G:\Users\fatih\source\repos\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\ref\HastaneRandevu.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\appsettings.Development.json
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\appsettings.json
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.staticwebassets.runtime.json
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.staticwebassets.endpoints.json
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.exe
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.deps.json
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.runtimeconfig.json
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.pdb
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Azure.Core.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Azure.Identity.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Humanizer.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.ClientModel.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.CodeDom.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Formats.Asn1.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.IO.Pipelines.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Memory.Data.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Text.Json.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.csproj.AssemblyReference.cache
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.GeneratedMSBuildEditorConfig.editorconfig
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.AssemblyInfoInputs.cache
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.AssemblyInfo.cs
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.csproj.CoreCompileInputs.cache
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.MvcApplicationPartsAssemblyInfo.cache
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.RazorAssemblyInfo.cache
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.RazorAssemblyInfo.cs
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\scopedcss\bundle\HastaneRandevu.styles.css
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\scopedcss\projectbundle\HastaneRandevu.bundle.scp.css
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\staticwebassets.build.json
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\staticwebassets.development.json
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\staticwebassets\msbuild.HastaneRandevu.Microsoft.AspNetCore.StaticWebAssets.props
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\staticwebassets\msbuild.HastaneRandevu.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\staticwebassets\msbuild.build.HastaneRandevu.props
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HastaneRandevu.props
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HastaneRandevu.props
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\staticwebassets.pack.json
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\HastaneR.0BF4DC9E.Up2Date
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\refint\HastaneRandevu.dll
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.pdb
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.genruntimeconfig.cache
+F:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\ref\HastaneRandevu.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\appsettings.Development.json
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.staticwebassets.endpoints.json
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\appsettings.json
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.staticwebassets.runtime.json
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.exe
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.deps.json
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.runtimeconfig.json
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.pdb
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Azure.Core.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Azure.Identity.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Humanizer.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.ClientModel.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.CodeDom.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Memory.Data.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Text.Json.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.csproj.AssemblyReference.cache
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.AssemblyInfoInputs.cache
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.AssemblyInfo.cs
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.csproj.CoreCompileInputs.cache
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.MvcApplicationPartsAssemblyInfo.cache
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.RazorAssemblyInfo.cache
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.RazorAssemblyInfo.cs
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\scopedcss\bundle\HastaneRandevu.styles.css
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\scopedcss\projectbundle\HastaneRandevu.bundle.scp.css
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\staticwebassets.build.json
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\staticwebassets.development.json
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\staticwebassets\msbuild.HastaneRandevu.Microsoft.AspNetCore.StaticWebAssets.props
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\staticwebassets\msbuild.HastaneRandevu.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\staticwebassets\msbuild.build.HastaneRandevu.props
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HastaneRandevu.props
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HastaneRandevu.props
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\staticwebassets.pack.json
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\HastaneR.0BF4DC9E.Up2Date
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\refint\HastaneRandevu.dll
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.pdb
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.genruntimeconfig.cache
+D:\asp.net okul\HastaneRandevu\HastaneRandevu\obj\Debug\net8.0\ref\HastaneRandevu.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\appsettings.Development.json
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.staticwebassets.endpoints.json
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\appsettings.json
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.staticwebassets.runtime.json
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.exe
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.deps.json
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.runtimeconfig.json
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.pdb
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Azure.Core.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Azure.Identity.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Humanizer.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.ClientModel.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.CodeDom.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Memory.Data.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Text.Json.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.csproj.AssemblyReference.cache
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.AssemblyInfoInputs.cache
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.AssemblyInfo.cs
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.csproj.CoreCompileInputs.cache
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.MvcApplicationPartsAssemblyInfo.cache
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.RazorAssemblyInfo.cache
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.RazorAssemblyInfo.cs
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\scopedcss\bundle\HastaneRandevu.styles.css
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\scopedcss\projectbundle\HastaneRandevu.bundle.scp.css
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\staticwebassets.build.json
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\staticwebassets.development.json
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\staticwebassets\msbuild.HastaneRandevu.Microsoft.AspNetCore.StaticWebAssets.props
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\staticwebassets\msbuild.HastaneRandevu.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\staticwebassets\msbuild.build.HastaneRandevu.props
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HastaneRandevu.props
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HastaneRandevu.props
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\staticwebassets.pack.json
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\HastaneR.0BF4DC9E.Up2Date
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\refint\HastaneRandevu.dll
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.pdb
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.genruntimeconfig.cache
+D:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\ref\HastaneRandevu.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\appsettings.Development.json
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\appsettings.json
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.staticwebassets.runtime.json
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.staticwebassets.endpoints.json
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.exe
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.deps.json
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.runtimeconfig.json
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.pdb
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Azure.Core.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Azure.Identity.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Humanizer.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.ClientModel.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.CodeDom.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Formats.Asn1.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.IO.Pipelines.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Memory.Data.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Text.Json.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.csproj.AssemblyReference.cache
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.GeneratedMSBuildEditorConfig.editorconfig
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.AssemblyInfoInputs.cache
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.AssemblyInfo.cs
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.csproj.CoreCompileInputs.cache
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.MvcApplicationPartsAssemblyInfo.cache
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.RazorAssemblyInfo.cache
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.RazorAssemblyInfo.cs
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\scopedcss\bundle\HastaneRandevu.styles.css
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\scopedcss\projectbundle\HastaneRandevu.bundle.scp.css
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\staticwebassets.build.json
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\staticwebassets.build.json.cache
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\staticwebassets.development.json
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\HastaneR.0BF4DC9E.Up2Date
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\refint\HastaneRandevu.dll
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.pdb
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.genruntimeconfig.cache
+F:\asp.net okul\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\ref\HastaneRandevu.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\appsettings.json
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.staticwebassets.runtime.json
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.staticwebassets.endpoints.json
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.exe
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.deps.json
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.runtimeconfig.json
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.pdb
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Humanizer.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.csproj.AssemblyReference.cache
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.AssemblyInfoInputs.cache
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.AssemblyInfo.cs
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.csproj.CoreCompileInputs.cache
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.RazorAssemblyInfo.cache
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.RazorAssemblyInfo.cs
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\scopedcss\bundle\HastaneRandevu.styles.css
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\scopedcss\projectbundle\HastaneRandevu.bundle.scp.css
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\staticwebassets\msbuild.HastaneRandevu.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\staticwebassets\msbuild.HastaneRandevu.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\staticwebassets\msbuild.build.HastaneRandevu.props
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HastaneRandevu.props
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HastaneRandevu.props
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\HastaneR.0BF4DC9E.Up2Date
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\refint\HastaneRandevu.dll
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.pdb
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.genruntimeconfig.cache
+C:\Users\turan\OneDrive\Masaüstü\HastaneRandevu fatih 2559\HastaneRandevu\obj\Debug\net8.0\ref\HastaneRandevu.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\appsettings.json
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.staticwebassets.runtime.json
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.staticwebassets.endpoints.json
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.exe
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.deps.json
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.runtimeconfig.json
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\HastaneRandevu.pdb
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\Humanizer.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.csproj.AssemblyReference.cache
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.AssemblyInfoInputs.cache
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.AssemblyInfo.cs
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.csproj.CoreCompileInputs.cache
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.RazorAssemblyInfo.cache
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.RazorAssemblyInfo.cs
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\obj\Debug\net8.0\scopedcss\bundle\HastaneRandevu.styles.css
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\obj\Debug\net8.0\scopedcss\projectbundle\HastaneRandevu.bundle.scp.css
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\obj\Debug\net8.0\staticwebassets\msbuild.HastaneRandevu.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\obj\Debug\net8.0\staticwebassets\msbuild.HastaneRandevu.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\obj\Debug\net8.0\staticwebassets\msbuild.build.HastaneRandevu.props
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HastaneRandevu.props
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HastaneRandevu.props
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\obj\Debug\net8.0\HastaneR.0BF4DC9E.Up2Date
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\obj\Debug\net8.0\refint\HastaneRandevu.dll
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.pdb
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\obj\Debug\net8.0\HastaneRandevu.genruntimeconfig.cache
+C:\Users\turan\OneDrive\Masaüstü\Hastane Randevu Sistemi Turan Arıkan 2444\HastaneRandevu\obj\Debug\net8.0\ref\HastaneRandevu.dll
